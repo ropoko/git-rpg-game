@@ -1,0 +1,13 @@
+return {
+	name = "ropoko",
+	class = "Warrior",
+	stats = {
+		strength = 10,
+		intelligence = 5,
+		agility = 8,
+		defense = 10,
+	},
+	level = 1,
+	xp = 0,
+	ssh_key = "CK4lL2gAAAAAVta9Lo1mm09C8uhGdT0nHGjLtvsULCOGfp4T9MYm6496pauc6DaAlzNVJDdmeZjaUiYIm57oYiDHMQ4LhUEJh80brOZps7vM99QcRS5TiWPef5RUdUGiwFOnUflTOxEaeeXKuttqzCu8Y0Y9tL/OHPlQj8ty1U/jL7IIgN7idTB2HC9kBYDySmXBtWwbVxkE9oM4bYMd08fhl1I2DfeeOodmH8yHkn6ldDxVboOPyyIc2wYG4wG2aBHwXP8qI9v9PDR9xOjBU1P0G5FyIm/XOKCqD9I/q5dTymxqJBXSHRereFIFVYb+Ucza83LZAzWSwq8/biOSd5FHtStfGuxrxYZNjpbftAwn7vQw2J2dyO18j9+Qw5t6JRKpFek54PHcurwr4z/lJ8cM7bhK41aL9I7tlvPkS/stLTf1yrObL/R/XHxpL7FmUu34H6B+Nfg218FNM3WNoHRxCqTj6C+sgi1tOPz8r74mAjVCyAX3A/Psa/G8ozWKZH2dYg9fIbDFOM58CWbMBXAr0M/1bRPoNdjwfq/4sSKioXF+hKKEbgMN8qBeSvNwAiuXQtq/RVNwCitjBiwsHfgnAKovAm9q3ZfB3PcTny8Uy5/XLhHl5TkxuXB1/AohNwGoQEt3nte/51xt1/ncdTsCTk8VaBf/bfaKGj8/cJXqBuX3B5uvK9hDexIVq+x2jUrWH9JE0T4lWnnXC8Xd7/6xFMpR6u2W/5HNAGzZkT9E6eajf8Yst2qKxOWyO3PZrY/D3Dilvphq2u3K0KC14o17THDxBe9sDFa4vepFP73vjXlfMBMHQ19ImF9qP8Fe6vAdhu/jhCpwpxiDW9GYYeZQ97RdvREDqlqtr4qn8VyjT8Y7sQpNtTXKUXcxgxtkbomR/NqjfUsbmvA8QUQCoB6YIlxz5h2QCB+mZm6M1B5vNzEovi1P9kcTqUKPgWUIrhrNLkhKGb7YVJhOVzT/EVl/p6p/A2SohoUhD2Kwza3q88SbAqSA5s7SblWQ"
+}
